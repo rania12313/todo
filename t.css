@@ -1,0 +1,50 @@
+.bg{ background-color: #6394ef;
+    height: calc(100vh - 1px);
+position: relative;}
+
+    .container{ 
+        min-height: 400px;
+        background-color: #000063;
+    color: white;
+border-radius: 25px;
+top: 200px;
+right: 430px;
+width: 600px;
+
+position: absolute;
+}
+
+h1{text-align: center;
+    font-family: Arial ;
+    font-weight: bolder;
+    padding: 30px 100px;}
+
+    .inputtext{width: 380px;
+    height: 38px;
+    border: ridge 1px grey;
+    margin-left: 70px;
+}
+
+    .bouton{ height: 40px;
+        padding-left: 10px;
+        padding-right: 40px;
+        color: white;
+    background: red;
+border: ridge 1px grey;
+margin-left: -4px;
+}
+.tb {
+    width : 530px;
+} 
+
+.content{padding: 0px 75px;
+font-size: large;
+font-family: cursive;}
+
+.bn
+{background-color: yellow;
+border: groove yellow 0px;
+padding: 4px 18px 4px 8px;
+border-radius: 5px;
+font-size: 15px;
+float: right;}
